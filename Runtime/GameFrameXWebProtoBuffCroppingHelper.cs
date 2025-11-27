@@ -4,7 +4,7 @@ using UnityEngine.Scripting;
 namespace GameFrameX.Web.ProtoBuff.Runtime
 {
     [Preserve]
-    public class GameFrameXWebCroppingHelper : MonoBehaviour
+    public class GameFrameXWebProtoBuffCroppingHelper : MonoBehaviour
     {
         [Preserve]
         private void Start()
