@@ -46,6 +46,7 @@ namespace GameFrameX.Web.ProtoBuff.Runtime
     [DisallowMultipleComponent]
     [AddComponentMenu("GameFrameX/Web ProtoBuff")]
     [UnityEngine.Scripting.Preserve]
+    [RequireComponent(typeof(GameFrameXWebProtoBuffCroppingHelper))]
     public sealed class WebProtoBuffComponent : GameFrameworkComponent
     {
         /// <summary>
