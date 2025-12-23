@@ -1,3 +1,12 @@
+# 1.0.0 (2025-12-23)
+
+
+### Features
+
+* **WebProtoBuff:** 添加 RequireComponent 属性以确保依赖组件存在 ([f1e6ded](https://github.com/gameframex/com.gameframex.unity.web.protobuff/commit/f1e6dedcd630342c43feaeee91b716abf9ffc1c8))
+* **WebProtoBuff:** 添加裁剪辅助类确保代码不被裁剪 ([da5142c](https://github.com/gameframex/com.gameframex.unity.web.protobuff/commit/da5142c6ed8c241cb135fe55fe34bfa8821aec2e))
+* 添加Web ProtoBuff组件支持HTTP请求和ProtoBuf序列化 ([1f990c7](https://github.com/gameframex/com.gameframex.unity.web.protobuff/commit/1f990c72e1b1e59c35d0a035403df57ca3c25ce9))
+
 # Changelog
 
 ## [1.1.8](https://github.com/GameFrameX/com.gameframex.unity.web/tree/1.1.8) (2025-05-31)

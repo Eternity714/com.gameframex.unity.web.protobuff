@@ -12,7 +12,7 @@
   ],
   "repository": {
     "name": "com.gameframex.unity.web.protobuff",
-    "url": "https://github.com/gameframex/com.gameframex.unity.web.protobuff.git",
+    "url": "git+https://github.com/gameframex/com.gameframex.unity.web.protobuff.git",
     "type": "git"
   },
   "author": {
